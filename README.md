@@ -19,7 +19,6 @@ A web application for managing tutors and clients for music tutoring businesses 
 * _Initiate a php server in terminal within the project directory._
 * _In Terminal run: Install composer_
 * _Open localhost:8000_
-* _Enjoy_
 
 _web browser and PHP 5 are necessary to operate this _
 
