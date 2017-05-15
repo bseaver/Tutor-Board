@@ -1,8 +1,8 @@
-# _CRM-Music_
+# _CRM-Music-School_
 
 #### _Customer Relationship Manager for Music School._
 
-#### By _** Carlos Munoz Kampff, Jennifer Beem, Jay Freeman, and David Quisenberry**_
+#### By _**Carlos Munoz Kampff, Jennifer Beem, Jay Freeman, and David Quisenberry**_
 
 ## Description
 
