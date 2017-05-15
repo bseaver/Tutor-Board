@@ -13,9 +13,9 @@ A web application for managing tutors and clients for music tutoring businesses 
 |Music School Administrator... |
 |---------------------------|
 |1a)Can register a student to the school. |
-|1a)Can delete, update a student to the school. |
+|1b)Can delete, update a student to the school. |
 |2a)Can register a teacher to the school. |
-|2a)Can delete, update a teacher to the school. |
+|2b)Can delete, update a teacher to the school. |
 |3a)Can register a class to the school. |
 |3b)Can delete, update a class.|
 |4a)Can register a lesson to the school. |
