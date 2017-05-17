@@ -1,4 +1,4 @@
-# _CRM-Music-School_
+# _Tutor-Board_
 
 #### _Customer Relationship Manager for Music School._
 
